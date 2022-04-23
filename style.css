@@ -4,4 +4,18 @@ p, h1 {
 html {
     background-color: #000000;
   }
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
+a{
+  color:#ffffff
+}
+
+a:hover{
+  color:#aa0200
   
+}
